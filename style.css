@@ -1,0 +1,15 @@
+
+
+.container {
+    background: white;
+    grid-area: container;
+    display: grid;
+    justify-self: center;
+    border: 5px solid red;
+    width: 70vmin;
+    height: 70vmin;
+}
+
+.box {
+    border: 1px solid rgb(245, 245, 245);
+}
